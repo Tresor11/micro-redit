@@ -1,23 +1,53 @@
-# MICRO-REDIT
+<!--
+*** Thanks for checking out this README Template. 
+-->
 
 
-Things you may want to cover:
+<!-- PROJECT TITLE -->
 
-* Ruby version
-<h2 style="text-align: center;" >
-  This repo is contains an implementation of the MVC used to build a system similar to reddit
-</h2>
-<h4>
-  getting started:
-</h4>
-<p>
-  first you'll need to clone the repo by typing:
-</p>
-  ```git clone https:\\ ```
-<p>
-  then you'll nedd to open the rails server by typing:
-</p>
-```rails console```
-<p>
-  
-</p>
+<br />
+<h1 align="center">Building with Active Record</h1>
+
+
+
+<!-- TABLE OF CONTENTS -->
+
+
+## Table of Contents
+
+* [About the Project](#about-the-project)
+  * [Built With](#built-with)
+* [License](#license)
+* [Contact](#contact)
+* [Acknowledgements](#acknowledgements)
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+This project puts your knowledge of active record, models, and associations to the tests. You will build an application similar to Reddit (called Micro-Reddit) where a user can create a post and add comments to it.
+
+Full task description: <a href="https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails"> Odin Project</a> .
+
+
+### Built With 
+
+* Git
+* Ruby
+* Ruby on Rails
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+<!-- CONTACT -->
+## Contact
+* Felipe Enne - tresor.moise2001@gmail.com
+* Ahmed
+
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+
+* Microverse.
