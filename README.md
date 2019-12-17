@@ -13,15 +13,11 @@ Things you may want to cover:
 <p>
   first you'll need to clone the repo by typing:
 </p>
-  ```
-  git clone https:\\
-  ```
+  ```git clone https:\\ ```
 <p>
   then you'll nedd to open the rails server by typing:
 </p>
-```
-rails console
-```
+```rails console```
 <p>
   
 </p>
