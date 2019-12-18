@@ -1,24 +1,53 @@
-# README
+<!--
+*** Thanks for checking out this README Template. 
+-->
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+<!-- PROJECT TITLE -->
 
-* Ruby version
+<br />
+<h1 align="center">Building with Active Record</h1>
 
-* System dependencies
 
-* Configuration
 
-* Database creation
+<!-- TABLE OF CONTENTS -->
 
-* Database initialization
 
-* How to run the test suite
+## Table of Contents
 
-* Services (job queues, cache servers, search engines, etc.)
+* [About the Project](#about-the-project)
+  * [Built With](#built-with)
+* [License](#license)
+* [Contact](#contact)
+* [Acknowledgements](#acknowledgements)
 
-* Deployment instructions
 
-* ...
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+This project puts your knowledge of active record, models, and associations to the tests. You will build an application similar to Reddit (called Micro-Reddit) where a user can create a post and add comments to it.
+
+Full task description: <a href="https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails"> Odin Project</a> .
+
+
+### Built With 
+
+* Git
+* Ruby
+* Ruby on Rails
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+<!-- CONTACT -->
+## Contact
+* Felipe Enne - tresor.moise2001@gmail.com
+* Ahmed
+
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+
+* Microverse.
