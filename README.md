@@ -44,7 +44,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 ## Contact
-* Felipe Enne - tresor.moise2001@gmail.com
+* Tresor Bireke - tresor.moise2001@gmail.com
 * Ahmed
 
 <!-- ACKNOWLEDGEMENTS -->
